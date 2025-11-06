@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Introducción
+Introducción
 Este proyecto se realizó a partir de un archivo Excel proporcionado por el profesor, el cual contenía información combinada de clientes, pedidos, productos y direcciones.  
 El objetivo fue aplicar las **tres primeras formas normales (1FN, 2FN y 3FN)** para mejorar la estructura y eliminar redundancias o dependencias incorrectas.
 
@@ -16,7 +16,7 @@ El trabajo se hizo paso a paso, analizando los datos y generando nuevas tablas m
 
 ---
 
-## 🔍 Paso 1: Análisis inicial del archivo Excel
+Paso 1: Análisis inicial del archivo Excel
 Se revisaron las columnas para identificar:
 - Datos repetidos (por ejemplo, un mismo cliente aparecía varias veces).
 - Celdas con más de un dato (por ejemplo, “Teléfono 1 / Teléfono 2”).
@@ -24,7 +24,7 @@ Se revisaron las columnas para identificar:
 
 ---
 
-## ⚙️ Primera Forma Normal (1FN)
+Primera Forma Normal (1FN)
 **Objetivo:** que cada campo contenga un solo valor atómico y no existan grupos repetitivos.  
 
 **Acciones realizadas:**
@@ -36,7 +36,7 @@ Se revisaron las columnas para identificar:
 
 ---
 
-## ⚙️ Segunda Forma Normal (2FN)
+Segunda Forma Normal (2FN)
 **Objetivo:** eliminar dependencias parciales (atributos que dependen solo de una parte de la clave).  
 
 **Acciones realizadas:**
@@ -51,7 +51,7 @@ Se revisaron las columnas para identificar:
 
 ---
 
-## ⚙️ Tercera Forma Normal (3FN)
+Tercera Forma Normal (3FN)
 **Objetivo:** eliminar dependencias transitivas (atributos que dependen de otros atributos que no son clave).  
 
 **Acciones realizadas:**
@@ -63,7 +63,7 @@ Se revisaron las columnas para identificar:
 
 ---
 
-## 🧩 Tablas finales
+ Tablas finales
 - **orders_3fn.csv:** información general del pedido (cliente, fecha, total, etc.).  
 - **order_items_3fn.csv:** detalle de los productos en cada pedido.  
 - **products_3fn.csv:** catálogo de productos únicos.  
@@ -71,10 +71,8 @@ Se revisaron las columnas para identificar:
 
 ---
 
-## 🗺️ Diagrama Relacional
+Diagrama Relacional
 El diagrama se generó en formato **DBML** y puede visualizarse fácilmente en  
-👉 [https://dbdiagram.io](https://dbdiagram.io)
-
 Para verlo:
 1. Entra a dbdiagram.io  
 2. Da clic en **“Create a new diagram”**  
@@ -83,7 +81,7 @@ Para verlo:
 
 ---
 
-## 🧮 Conclusión
+Conclusión
 Durante este proyecto aprendí a identificar dependencias funcionales, parciales y transitivas dentro de una base de datos.  
 También comprendí cómo dividir una tabla compleja en varias entidades relacionadas, respetando las **formas normales**.  
 Aunque el análisis fue automatizado con ayuda de herramientas, revisé manualmente los resultados para entender el porqué de cada decisión.
@@ -92,14 +90,6 @@ Este proceso me ayudó a visualizar cómo un archivo Excel desorganizado puede t
 
 ---
 
-## 📁 Archivos importantes
-| Archivo | Descripción |
-|----------|--------------|
-| `data/orders_3fn.csv` | Tabla de pedidos normalizada |
-| `data/order_items_3fn.csv` | Detalle de productos por pedido |
-| `data/products_3fn.csv` | Catálogo de productos únicos |
-| `diagram/final_diagram_3fn.dbml` | Diagrama DBML para dbdiagram.io |
-| `data/decision_log.md` | Reporte de justificación del proceso |
 
 ---
 
