@@ -1,0 +1,52 @@
+# Decision log: Normalización 1FN→3FN
+
+- Se seleccionó como candidato a clave primaria: **id** (heurística por ratio de unicidad / nombre).
+- Se detectó columna de producto: **codigo_act** y se creó tabla `products` con atributos constantes por producto.
+- Se movieron a `orders` los atributos que eran constantes por cada valor de la clave primaria (orden).
+- Se creó `order_items` con los atributos de línea como cantidad, precio y referencia a producto.
+- Se detectaron dependencias transitivas y se crearon tablas separadas:
+  - id_to_clee (columnas: id, clee)
+  - id_to_nom_estab (columnas: id, nom_estab)
+  - id_to_raz_social (columnas: id, raz_social)
+  - id_to_codigo_act (columnas: id, codigo_act)
+  - id_to_nombre_act (columnas: id, nombre_act)
+  - id_to_per_ocu (columnas: id, per_ocu)
+  - id_to_tipo_vial (columnas: id, tipo_vial)
+  - id_to_nom_vial (columnas: id, nom_vial)
+  - id_to_tipo_v_e_1 (columnas: id, tipo_v_e_1)
+  - id_to_nom_v_e_1 (columnas: id, nom_v_e_1)
+  - id_to_tipo_v_e_2 (columnas: id, tipo_v_e_2)
+  - id_to_nom_v_e_2 (columnas: id, nom_v_e_2)
+  - id_to_tipo_v_e_3 (columnas: id, tipo_v_e_3)
+  - id_to_nom_v_e_3 (columnas: id, nom_v_e_3)
+  - id_to_numero_ext (columnas: id, numero_ext)
+  - id_to_letra_ext (columnas: id, letra_ext)
+  - id_to_edificio (columnas: id, edificio)
+  - id_to_edificio_e (columnas: id, edificio_e)
+  - id_to_numero_int (columnas: id, numero_int)
+  - id_to_letra_int (columnas: id, letra_int)
+  - id_to_tipo_asent (columnas: id, tipo_asent)
+  - id_to_nomb_asent (columnas: id, nomb_asent)
+  - id_to_tipocencom (columnas: id, tipocencom)
+  - id_to_nom_cencom (columnas: id, nom_cencom)
+  - id_to_num_local (columnas: id, num_local)
+  - id_to_cod_postal (columnas: id, cod_postal)
+  - id_to_cve_ent (columnas: id, cve_ent)
+  - id_to_entidad (columnas: id, entidad)
+  - id_to_cve_mun (columnas: id, cve_mun)
+  - id_to_municipio (columnas: id, municipio)
+  - id_to_cve_loc (columnas: id, cve_loc)
+  - id_to_localidad (columnas: id, localidad)
+  - id_to_ageb (columnas: id, ageb)
+  - id_to_manzana (columnas: id, manzana)
+  - id_to_telefono (columnas: id, telefono)
+  - id_to_correoelec (columnas: id, correoelec)
+  - id_to_www (columnas: id, www)
+  - id_to_tipounieco (columnas: id, tipounieco)
+  - id_to_latitud (columnas: id, latitud)
+  - id_to_longitud (columnas: id, longitud)
+  - id_to_fecha_alta (columnas: id, fecha_alta)
+
+## Justificación
+- Cada atributo se ubicó en la tabla cuya clave determina su valor para evitar redundancia y dependencias parciales/transitivas.
+- Las decisiones se tomaron por heurística automática; recomiendo validarlas con el profesor/dueño de datos.
