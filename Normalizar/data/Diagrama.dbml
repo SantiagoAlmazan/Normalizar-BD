@@ -1,0 +1,45 @@
+Table orders {
+  id int [pk, increment]
+  fecha date
+  cliente_nombre varchar
+  total decimal
+}
+
+Table order_items {
+  id int [pk, increment]
+  order_id int
+  product_id int
+  cantidad int
+  subtotal decimal
+}
+
+Table products {
+  id int [pk, increment]
+  nombre varchar
+  precio decimal
+  codigo_act int
+}
+
+Table cod_postal {
+  id int [pk, increment]
+  codigo_postal varchar
+}
+
+Table nombre_act {
+  id int [pk, increment]
+  actividad varchar
+}
+
+Table nombre_estab {
+  id int [pk, increment]
+  nombre_establecimiento varchar
+}
+
+Table tipo_unieco {
+  id int [pk, increment]
+  tipo_unidad varchar
+}
+
+Ref: order_items.order_id > orders.id
+Ref: order_items.product_id > products.id
+Ref: products.codigo_act > nombre_act.id
