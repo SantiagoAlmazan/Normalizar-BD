@@ -93,12 +93,12 @@ Este proceso me ayudó a visualizar cómo un archivo Excel desorganizado puede t
 
 ---
 
-### 💡 Nota final
+ Nota final
 El análisis se realizó como ejercicio académico. Las estructuras pueden adaptarse según el contexto real o las reglas de negocio del sistema.
 
 ---
 
-## 🧰 Herramientas utilizadas
+Herramientas utilizadas
 - **Excel / Pandas (Python)** — para limpiar y analizar datos  
 - **dbdiagram.io** — para visualizar el modelo entidad-relación  
 - **GitHub** — para documentar y entregar el trabajo
