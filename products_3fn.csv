@@ -1,0 +1,867 @@
+codigo_act,nombre_act,cve_ent,entidad
+115111,Servicios de fumigación agrícola,2,Baja California
+112519,Otra acuicultura,2,Baja California
+112514,Camaronicultura y acuicultura de otros crustáceos en agua dulce,2,Baja California
+115113,Beneficio de productos agrícolas,2,Baja California
+114119,"Pesca y captura de peces, crustáceos, moluscos y otras especies",2,Baja California
+115112,Despepite de algodón,2,Baja California
+115119,Otros servicios relacionados con la agricultura,2,Baja California
+114113,Pesca de sardina y anchoveta,2,Baja California
+112516,Piscicultura en agua salada,2,Baja California
+114111,Pesca de camarón,2,Baja California
+114112,Pesca de túnidos,2,Baja California
+115210,Servicios relacionados con la cría y explotación de animales,2,Baja California
+112515,Piscicultura en agua dulce,2,Baja California
+112513,Camaronicultura y acuicultura de otros crustáceos en agua salada,2,Baja California
+212321,Minería de arena y grava para la construcción,2,Baja California
+212232,Minería de plomo y zinc,2,Baja California
+212311,Minería de piedra caliza,2,Baja California
+212210,Minería de hierro,2,Baja California
+212391,Minería de sal,2,Baja California
+212110,Minería de carbón mineral,2,Baja California
+212221,Minería de oro,2,Baja California
+212319,Minería de otras piedras dimensionadas,2,Baja California
+213119,Otros servicios relacionados con la minería,2,Baja California
+221122,Distribución de energía eléctrica,2,Baja California
+221311,"Captación, tratamiento y suministro de agua realizados por el sector privado",2,Baja California
+221312,"Captación, tratamiento y suministro de agua realizados por el sector público",2,Baja California
+221123,Comercialización de energía eléctrica,2,Baja California
+221111,Generación de electricidad a partir de combustibles fósiles,2,Baja California
+221121,Transmisión de energía eléctrica,2,Baja California
+221114,Generación de electricidad a partir de energía eólica,2,Baja California
+221210,Suministro de gas natural por ductos al consumidor final,2,Baja California
+236211,"Edificación de naves y plantas industriales, excepto la supervisión",2,Baja California
+236112,Edificación de vivienda multifamiliar,2,Baja California
+238210,Instalaciones eléctricas en construcciones,2,Baja California
+238130,Trabajos de albañilería,2,Baja California
+236111,Edificación de vivienda unifamiliar,2,Baja California
+236221,"Edificación de inmuebles comerciales y de servicios, excepto la supervisión",2,Baja California
+236222,Supervisión de edificación de inmuebles comerciales y de servicios,2,Baja California
+236113,Supervisión de edificación residencial,2,Baja California
+238222,Instalaciones de sistemas centrales de aire acondicionado y calefacción,2,Baja California
+238311,Colocación de muros falsos y aislamiento,2,Baja California
+238990,Otros trabajos especializados para la construcción,2,Baja California
+237111,"Construcción de obras para el tratamiento, distribución y suministro de agua y drenaje",2,Baja California
+237212,Construcción de obras de urbanización,2,Baja California
+238910,Preparación de terrenos para la construcción,2,Baja California
+238122,Montaje de estructuras de acero prefabricadas,2,Baja California
+237312,"Construcción de carreteras, puentes y similares",2,Baja California
+237311,Instalación de señalamientos y protecciones en obras viales,2,Baja California
+238190,Otros trabajos en exteriores,2,Baja California
+237211,División de terrenos,2,Baja California
+238390,Otros trabajos de acabados en edificaciones,2,Baja California
+238121,Montaje de estructuras de concreto prefabricadas,2,Baja California
+238350,Realización de trabajos de carpintería en el lugar de la construcción,2,Baja California
+237121,Construcción de sistemas de distribución de petróleo y gas,2,Baja California
+237992,"Construcción de obras marítimas, fluviales y subacuáticas",2,Baja California
+237213,Supervisión de división de terrenos y de construcción de obras de urbanización,2,Baja California
+238110,Trabajos de cimentaciones,2,Baja California
+238330,Colocación de pisos flexibles y de madera,2,Baja California
+237131,Construcción de obras de generación y conducción de energía eléctrica,2,Baja California
+237999,Otras construcciones de ingeniería civil,2,Baja California
+238221,Instalaciones hidrosanitarias y de gas,2,Baja California
+237112,Construcción de sistemas de riego agrícola,2,Baja California
+237991,Construcción de presas y represas,2,Baja California
+238340,Colocación de pisos cerámicos y azulejos,2,Baja California
+238290,Otras instalaciones y equipamiento en construcciones,2,Baja California
+238320,Trabajos de pintura y otros cubrimientos de paredes,2,Baja California
+237132,Construcción de obras para telecomunicaciones,2,Baja California
+236212,Supervisión de edificación de naves y plantas industriales,2,Baja California
+237133,Supervisión de construcción de obras de generación y conducción de energía eléctrica y de obras para telecomunicaciones,2,Baja California
+311811,Panificación industrial,2,Baja California
+311812,Panificación tradicional,2,Baja California
+315229,Confección en serie de otra ropa exterior de materiales textiles,2,Baja California
+311422,Conservación de frutas y verduras por procesos distintos a la congelación y la deshidratación,2,Baja California
+311830,Elaboración de tortillas de maíz y molienda de nixtamal,2,Baja California
+312112,Purificación y embotellado de agua,2,Baja California
+315223,Confección en serie de uniformes,2,Baja California
+311999,Elaboración de otros alimentos,2,Baja California
+315225,Confección de prendas de vestir sobre medida,2,Baja California
+312113,Elaboración de hielo,2,Baja California
+312131,Elaboración de bebidas alcohólicas a base de uva,2,Baja California
+311710,Preparación y envasado de pescados y mariscos,2,Baja California
+311110,Elaboración de alimentos para animales,2,Baja California
+312120,Elaboración de cerveza,2,Baja California
+312111,Elaboración de refrescos y otras bebidas no alcohólicas,2,Baja California
+311924,Preparación y envasado de té,2,Baja California
+311613,"Preparación de embutidos y otras conservas de carne de ganado, aves y otros animales comestibles",2,Baja California
+311212,Elaboración de harina de trigo,2,Baja California
+311511,Elaboración de leche líquida,2,Baja California
+314991,"Confección, bordado y deshilado de productos textiles",2,Baja California
+311520,Elaboración de helados y paletas,2,Baja California
+311222,Elaboración de aceites y grasas vegetales comestibles,2,Baja California
+315210,"Confección de prendas de vestir de cuero, piel y de materiales sucedáneos",2,Baja California
+314120,"Confección de cortinas, blancos y similares",2,Baja California
+314992,Fabricación de redes y otros productos de cordelería,2,Baja California
+311412,Congelación de guisos y otros alimentos preparados,2,Baja California
+311813,Elaboración de tortillas de harina de trigo de forma tradicional,2,Baja California
+316999,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",2,Baja California
+315999,Confección de otros accesorios y prendas de vestir no clasificados en otra parte,2,Baja California
+314110,Fabricación de alfombras y tapetes,2,Baja California
+315991,Confección de sombreros y gorras,2,Baja California
+311910,Elaboración de botanas,2,Baja California
+313220,Fabricación de telas angostas de tejido de trama y pasamanería,2,Baja California
+311350,Elaboración de chocolate y productos de chocolate,2,Baja California
+315123,Fabricación de ropa exterior de tejido de punto,2,Baja California
+311340,"Elaboración de dulces, chicles y productos de confitería que no sean de chocolate",2,Baja California
+311213,Elaboración de harina de maíz,2,Baja California
+313310,Acabado de productos textiles,2,Baja California
+311923,Elaboración de café instantáneo,2,Baja California
+311922,Elaboración de café tostado y molido,2,Baja California
+316991,"Fabricación de bolsos de mano, maletas y similares",2,Baja California
+311411,Congelación de frutas y verduras,2,Baja California
+311612,"Corte y empacado de carne de ganado, aves y otros animales comestibles",2,Baja California
+315224,Confección en serie de disfraces y trajes típicos,2,Baja California
+311423,Conservación de guisos y otros alimentos preparados por procesos distintos a la congelación,2,Baja California
+314912,Confección de productos de textiles recubiertos y de materiales sucedáneos,2,Baja California
+313113,Fabricación de hilos para coser y bordar,2,Baja California
+311513,Elaboración de derivados y fermentos lácteos,2,Baja California
+314999,Fabricación de banderas y otros productos textiles no clasificados en otra parte,2,Baja California
+315221,Confección en serie de ropa interior y de dormir,2,Baja California
+311820,Elaboración de galletas y pastas para sopa,2,Baja California
+316110,Curtido y acabado de cuero y piel,2,Baja California
+316211,Fabricación de calzado con corte de piel y cuero,2,Baja California
+311993,Elaboración de alimentos frescos para consumo inmediato,2,Baja California
+311940,Elaboración de condimentos y aderezos,2,Baja California
+313111,Preparación e hilado de fibras duras naturales,2,Baja California
+312222,Elaboración de puros y otros productos de tabaco,2,Baja California
+315222,Confección en serie de camisas,2,Baja California
+311930,"Elaboración de concentrados, polvos, jarabes y esencias de sabor para bebidas",2,Baja California
+313210,Fabricación de telas anchas de tejido de trama,2,Baja California
+311421,Deshidratación de frutas y verduras,2,Baja California
+311230,Elaboración de cereales para el desayuno,2,Baja California
+313320,Fabricación de telas recubiertas,2,Baja California
+311614,Elaboración de manteca y otras grasas animales comestibles,2,Baja California
+316213,Fabricación de calzado de plástico,2,Baja California
+311215,Elaboración de malta,2,Baja California
+311611,"Matanza de ganado, aves y otros animales comestibles",2,Baja California
+312144,Elaboración de tequila,2,Baja California
+312221,Elaboración de cigarros,2,Baja California
+312149,Elaboración de otras bebidas destiladas,2,Baja California
+323119,Impresión de formas continuas y otros impresos,2,Baja California
+322299,Fabricación de otros productos de cartón y papel,2,Baja California
+327991,Fabricación de productos a base de piedras de cantera,2,Baja California
+326199,Fabricación de otros productos de plástico sin reforzamiento,2,Baja California
+327121,Fabricación de ladrillos no refractarios,2,Baja California
+326193,Fabricación de envases y contenedores de plástico para embalaje con y sin reforzamiento,2,Baja California
+324120,Fabricación de productos de asfalto,2,Baja California
+325310,Fabricación de fertilizantes,2,Baja California
+327420,Fabricación de yeso y productos de yeso,2,Baja California
+327399,Fabricación de otros productos de cemento y concreto,2,Baja California
+325610,"Fabricación de jabones, limpiadores y dentífricos",2,Baja California
+327111,"Fabricación de artículos de alfarería, porcelana y loza",2,Baja California
+325999,Fabricación de otros productos químicos,2,Baja California
+321992,Fabricación de artículos y utensilios de madera para el hogar,2,Baja California
+322210,Fabricación de envases de cartón,2,Baja California
+321920,Fabricación de productos para embalaje y envases de madera,2,Baja California
+321910,Fabricación de productos de madera para la construcción,2,Baja California
+326192,Fabricación de autopartes de plástico con y sin reforzamiento,2,Baja California
+326194,Fabricación de otros productos de plástico de uso industrial sin reforzamiento,2,Baja California
+326140,Fabricación de espumas y productos de poliestireno,2,Baja California
+327219,Fabricación de otros productos de vidrio,2,Baja California
+321991,"Fabricación de productos de materiales trenzables, excepto palma",2,Baja California
+327215,Fabricación de artículos de vidrio de uso doméstico,2,Baja California
+325412,Fabricación de preparaciones farmacéuticas,2,Baja California
+327910,Fabricación de productos abrasivos,2,Baja California
+321999,Fabricación de otros productos de madera,2,Baja California
+322132,Fabricación de cartón y cartoncillo a partir de pulpa,2,Baja California
+325130,Fabricación de pigmentos y colorantes sintéticos,2,Baja California
+325180,Fabricación de otros productos químicos básicos inorgánicos,2,Baja California
+327214,Fabricación de fibra de vidrio,2,Baja California
+327122,Fabricación de azulejos y losetas no refractarias,2,Baja California
+326160,Fabricación de botellas de plástico,2,Baja California
+321210,Fabricación de laminados y aglutinados de madera,2,Baja California
+322230,Fabricación de productos de papelería,2,Baja California
+325211,Fabricación de resinas sintéticas,2,Baja California
+327330,Fabricación de tubos y bloques de cemento y concreto,2,Baja California
+327999,Fabricación de otros productos a base de minerales no metálicos,2,Baja California
+325993,Fabricación de resinas de plásticos reciclados,2,Baja California
+326110,Fabricación de bolsas y películas de plástico flexible,2,Baja California
+326198,Fabricación de otros productos de plástico con reforzamiento,2,Baja California
+327320,Fabricación de concreto,2,Baja California
+326212,Revitalización de llantas,2,Baja California
+326191,Fabricación de productos de plástico para el hogar con y sin reforzamiento,2,Baja California
+327211,Fabricación de vidrio,2,Baja California
+326150,Fabricación de espumas y productos de uretano,2,Baja California
+321993,Fabricación de productos de madera de uso industrial,2,Baja California
+321112,Aserrado de tablas y tablones,2,Baja California
+323120,Industrias conexas a la impresión,2,Baja California
+327310,Fabricación de cemento y productos a base de cemento en plantas integradas,2,Baja California
+325520,Fabricación de adhesivos,2,Baja California
+327391,Fabricación de productos preesforzados de concreto,2,Baja California
+324191,Fabricación de aceites y grasas lubricantes,2,Baja California
+326130,Fabricación de laminados de plástico rígido,2,Baja California
+322291,Fabricación de pañales desechables y productos sanitarios,2,Baja California
+325120,Fabricación de gases industriales,2,Baja California
+326120,"Fabricación de tubería y conexiones, y tubos para embalaje",2,Baja California
+325190,Fabricación de otros productos químicos básicos orgánicos,2,Baja California
+322220,Fabricación de bolsas de papel y productos celulósicos recubiertos y tratados,2,Baja California
+327213,Fabricación de envases y ampolletas de vidrio,2,Baja California
+322122,Fabricación de papel a partir de pulpa,2,Baja California
+325992,"Fabricación de películas, placas y papel fotosensible para fotografía",2,Baja California
+326220,Fabricación de bandas y mangueras de hule y de plástico,2,Baja California
+325910,Fabricación de tintas para impresión,2,Baja California
+325320,"Fabricación de pesticidas y otros agroquímicos, excepto fertilizantes",2,Baja California
+322131,Fabricación de cartón en plantas integradas,2,Baja California
+326290,Fabricación de otros productos de hule,2,Baja California
+325212,Fabricación de hules sintéticos,2,Baja California
+325510,Fabricación de pinturas y recubrimientos,2,Baja California
+323111,"Impresión de libros, periódicos y revistas",2,Baja California
+325620,"Fabricación de cosméticos, perfumes y otras preparaciones de tocador",2,Baja California
+321111,Aserraderos integrados,2,Baja California
+322110,Fabricación de pulpa,2,Baja California
+325220,Fabricación de fibras químicas,2,Baja California
+327112,Fabricación de muebles de baño,2,Baja California
+322121,Fabricación de papel en plantas integradas,2,Baja California
+327212,Fabricación de espejos,2,Baja California
+325110,Fabricación de petroquímicos básicos del gas natural y del petróleo refinado,2,Baja California
+327123,Fabricación de productos refractarios,2,Baja California
+321113,Tratamiento de la madera y fabricación de postes y durmientes,2,Baja California
+327410,Fabricación de cal,2,Baja California
+339913,Joyería de metales y piedras no preciosos y de otros materiales,2,Baja California
+332320,Fabricación de productos de herrería,2,Baja California
+335999,Fabricación de otros productos eléctricos,2,Baja California
+332710,Maquinado de piezas metálicas para maquinaria y equipo en general,2,Baja California
+337110,Fabricación de cocinas integrales y muebles modulares de baño,2,Baja California
+337120,"Fabricación de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estantería",2,Baja California
+332810,Recubrimientos y terminados metálicos,2,Baja California
+332999,Fabricación de otros productos metálicos,2,Baja California
+339999,Otras industrias manufactureras,2,Baja California
+331210,Fabricación de tubos y postes de hierro y acero,2,Baja California
+331112,Fabricación de desbastes primarios y ferroaleaciones,2,Baja California
+331220,Fabricación de otros productos de hierro y acero,2,Baja California
+339112,Fabricación de material desechable de uso médico,2,Baja California
+331520,Moldeo por fundición de piezas metálicas no ferrosas,2,Baja California
+334310,Fabricación de equipo de audio y de video,2,Baja California
+339111,"Fabricación de equipo no electrónico para uso médico, dental y para laboratorio",2,Baja California
+339920,Fabricación de artículos deportivos,2,Baja California
+336410,Fabricación de equipo aeroespacial,2,Baja California
+336360,Fabricación de asientos y accesorios interiores para vehículos automotores,2,Baja California
+337210,Fabricación de muebles de oficina y estantería,2,Baja California
+333411,Fabricación de equipo de aire acondicionado y calefacción,2,Baja California
+333249,Fabricación de maquinaria y equipo para otras industrias manufactureras,2,Baja California
+335220,Fabricación de aparatos de línea blanca,2,Baja California
+333999,Fabricación de otra maquinaria y equipo para la industria en general,2,Baja California
+332510,Fabricación de herrajes y cerraduras,2,Baja California
+334410,Fabricación de componentes electrónicos,2,Baja California
+331490,Laminación secundaria de otros metales no ferrosos,2,Baja California
+332310,Fabricación de estructuras metálicas,2,Baja California
+339950,Fabricación de anuncios y señalamientos,2,Baja California
+335210,Fabricación de enseres electrodomésticos menores,2,Baja California
+337920,Fabricación de persianas y cortineros,2,Baja California
+335132,Fabricación de lámparas ornamentales,2,Baja California
+331310,Industria básica del aluminio,2,Baja California
+336210,Fabricación de carrocerías y remolques,2,Baja California
+336320,Fabricación de equipo eléctrico y electrónico y sus partes para vehículos automotores,2,Baja California
+334220,"Fabricación de equipo de transmisión y recepción de señales de radio y televisión, y equipo de comunicación inalámbrico",2,Baja California
+332110,Fabricación de productos metálicos forjados y troquelados,2,Baja California
+336510,Fabricación de equipo ferroviario,2,Baja California
+335910,Fabricación de acumuladores y pilas,2,Baja California
+332720,"Fabricación de tornillos, tuercas, remaches y similares",2,Baja California
+336370,Fabricación de piezas metálicas troqueladas para vehículos automotrices,2,Baja California
+333319,Fabricación de otra maquinaria y equipo para el comercio y los servicios,2,Baja California
+336610,Fabricación de embarcaciones,2,Baja California
+339991,Fabricación de instrumentos musicales,2,Baja California
+334290,Fabricación de otros equipos de comunicación,2,Baja California
+339912,Orfebrería y joyería de metales y piedras preciosos,2,Baja California
+332910,Fabricación de válvulas metálicas,2,Baja California
+339930,Fabricación de juguetes,2,Baja California
+339113,Fabricación de artículos oftálmicos,2,Baja California
+336992,Fabricación de bicicletas y triciclos,2,Baja California
+333610,"Fabricación de motores de combustión interna, turbinas y transmisiones",2,Baja California
+336390,Fabricación de otras partes para vehículos automotrices,2,Baja California
+335930,"Fabricación de enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricas",2,Baja California
+334519,"Fabricación de otros instrumentos de medición, control, navegación, y equipo médico electrónico",2,Baja California
+339940,"Fabricación de artículos y accesorios para escritura, pintura, dibujo y actividades de oficina",2,Baja California
+332610,"Fabricación de alambre, productos de alambre y resortes",2,Baja California
+332212,Fabricación de utensilios de cocina metálicos,2,Baja California
+332211,Fabricación de herramientas de mano metálicas sin motor,2,Baja California
+335131,Fabricación de focos,2,Baja California
+333243,Fabricación de maquinaria y equipo para la industria alimentaria y de las bebidas,2,Baja California
+333510,Fabricación de maquinaria y equipo para la industria metalmecánica,2,Baja California
+335920,Fabricación de cables de conducción eléctrica,2,Baja California
+331111,Complejos siderúrgicos,2,Baja California
+337910,Fabricación de colchones,2,Baja California
+336310,Fabricación de motores de gasolina y sus partes para vehículos automotrices,2,Baja California
+333111,Fabricación de maquinaria y equipo agrícola,2,Baja California
+336999,Fabricación de otro equipo de transporte,2,Baja California
+333120,Fabricación de maquinaria y equipo para la construcción,2,Baja California
+336340,Fabricación de partes de sistemas de frenos para vehículos automotrices,2,Baja California
+333112,Fabricación de maquinaria y equipo pecuario,2,Baja California
+332410,Fabricación de calderas industriales,2,Baja California
+332430,Fabricación de envases metálicos de calibre ligero,2,Baja California
+333920,Fabricación de maquinaria y equipo para levantar y trasladar,2,Baja California
+339994,Fabricación de velas y veladoras,2,Baja California
+333910,Fabricación de bombas y sistemas de bombeo,2,Baja California
+335312,Fabricación de equipo y aparatos de distribución de energía eléctrica,2,Baja California
+333412,Fabricación de equipo de refrigeración industrial y comercial,2,Baja California
+331510,Moldeo por fundición de piezas de hierro y acero,2,Baja California
+333991,Fabricación de equipo para soldar y soldaduras,2,Baja California
+336330,Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotrices,2,Baja California
+332420,Fabricación de tanques metálicos de calibre grueso,2,Baja California
+339914,Metalistería de metales no preciosos,2,Baja California
+336110,Fabricación de automóviles y camionetas,2,Baja California
+335311,Fabricación de motores y generadores eléctricos,2,Baja California
+333241,Fabricación de maquinaria y equipo para la industria de la madera,2,Baja California
+336350,Fabricación de partes de sistemas de transmisión para vehículos automotores,2,Baja California
+334110,Fabricación de computadoras y equipo periférico,2,Baja California
+339993,"Fabricación de escobas, cepillos y similares",2,Baja California
+336120,Fabricación de camiones y tractocamiones,2,Baja California
+339995,Fabricación de ataúdes,2,Baja California
+333130,Fabricación de maquinaria y equipo para la industria extractiva,2,Baja California
+333242,Fabricación de maquinaria y equipo para la industria del hule y del plástico,2,Baja California
+336991,Fabricación de motocicletas,2,Baja California
+333312,Fabricación de máquinas fotocopiadoras,2,Baja California
+331419,Fundición y refinación de otros metales no ferrosos,2,Baja California
+333244,Fabricación de maquinaria y equipo para la industria textil,2,Baja California
+332991,Fabricación de baleros y rodamientos,2,Baja California
+334610,Fabricación y reproducción de medios magnéticos y ópticos,2,Baja California
+435319,Comercio al por mayor de maquinaria y equipo para otros servicios y para actividades comerciales,2,Baja California
+431220,"Comercio al por mayor de cigarros, puros y tabaco",2,Baja California
+431110,Comercio al por mayor de abarrotes,2,Baja California
+431191,Comercio al por mayor de pan y pasteles,2,Baja California
+433410,Comercio al por mayor de artículos de papelería,2,Baja California
+431160,Comercio al por mayor de leche y otros productos lácteos,2,Baja California
+435311,"Comercio al por mayor de equipo de telecomunicaciones, fotografía y cinematografía",2,Baja California
+434222,Comercio al por mayor de productos químicos para la industria farmacéutica y para otro uso industrial,2,Baja California
+434229,Comercio al por mayor de otras materias primas para otras industrias,2,Baja California
+435220,Comercio al por mayor de maquinaria y equipo para la industria manufacturera,2,Baja California
+434221,Comercio al por mayor de materiales metálicos para la construcción y la manufactura,2,Baja California
+431193,Comercio al por mayor de conservas alimenticias,2,Baja California
+434230,Comercio al por mayor de combustibles de uso industrial,2,Baja California
+434111,"Comercio al por mayor de fertilizantes, plaguicidas y semillas para siembra",2,Baja California
+433110,Comercio al por mayor de productos farmacéuticos,2,Baja California
+434211,"Comercio al por mayor de cemento, tabique y grava",2,Baja California
+435313,"Comercio al por mayor de mobiliario, equipo e instrumental médico y de laboratorio",2,Baja California
+434224,Comercio al por mayor de madera para la construcción y la industria,2,Baja California
+431199,Comercio al por mayor de otros alimentos,2,Baja California
+431130,Comercio al por mayor de frutas y verduras frescas,2,Baja California
+434311,Comercio al por mayor de desechos metálicos,2,Baja California
+435210,Comercio al por mayor de maquinaria y equipo para la construcción y la minería,2,Baja California
+434219,"Comercio al por mayor de otros materiales para la construcción, excepto de madera y metálicos",2,Baja California
+434319,Comercio al por mayor de otros materiales de desecho,2,Baja California
+434240,Comercio al por mayor de artículos desechables,2,Baja California
+431121,Comercio al por mayor de carnes rojas,2,Baja California
+435110,"Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca",2,Baja California
+431192,Comercio al por mayor de botanas y frituras,2,Baja California
+436112,"Comercio al por mayor de partes y refacciones nuevas para automóviles, camionetas y camiones",2,Baja California
+431213,Comercio al por mayor de cerveza,2,Baja California
+431150,"Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos",2,Baja California
+432111,"Comercio al por mayor de fibras, hilos y telas",2,Baja California
+431211,Comercio al por mayor de bebidas no alcohólicas y hielo,2,Baja California
+435419,Comercio al por mayor de otra maquinaria y equipo de uso general,2,Baja California
+434226,Comercio al por mayor de pintura,2,Baja California
+434225,Comercio al por mayor de equipo y material eléctrico,2,Baja California
+431123,Comercio al por mayor de pescados y mariscos,2,Baja California
+434312,Comercio al por mayor de desechos de papel y de cartón,2,Baja California
+434223,"Comercio al por mayor de envases en general, papel y cartón para la industria",2,Baja California
+432130,Comercio al por mayor de calzado,2,Baja California
+435411,"Comercio al por mayor de mobiliario, equipo, y accesorios de cómputo",2,Baja California
+434227,Comercio al por mayor de vidrios y espejos,2,Baja California
+432120,"Comercio al por mayor de ropa, bisutería y accesorios de vestir",2,Baja California
+437313,Intermediación de comercio al por mayor de productos de uso doméstico y personal,2,Baja California
+433510,Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca,2,Baja California
+435312,Comercio al por mayor de artículos y accesorios para diseño y pintura artística,2,Baja California
+432119,Comercio al por mayor de otros productos textiles,2,Baja California
+434228,Comercio al por mayor de ganado y aves en pie,2,Baja California
+433210,Comercio al por mayor de artículos de perfumería y cosméticos,2,Baja California
+436111,Comercio al por mayor de camiones,2,Baja California
+431122,Comercio al por mayor de carne de aves,2,Baja California
+431180,Comercio al por mayor de dulces y materias primas para repostería,2,Baja California
+435412,Comercio al por mayor de mobiliario y equipo de oficina,2,Baja California
+437312,"Intermediación de comercio al por mayor de productos para la industria, el comercio y los servicios",2,Baja California
+433312,Comercio al por mayor de juguetes y bicicletas,2,Baja California
+431212,Comercio al por mayor de vinos y licores,2,Baja California
+431170,Comercio al por mayor de embutidos,2,Baja California
+434314,Comercio al por mayor de desechos de plástico,2,Baja California
+433313,Comercio al por mayor de artículos y aparatos deportivos,2,Baja California
+433430,Comercio al por mayor de revistas y periódicos,2,Baja California
+434112,"Comercio al por mayor de medicamentos veterinarios y alimentos para animales, excepto mascotas",2,Baja California
+431140,Comercio al por mayor de huevo,2,Baja California
+437311,Intermediación de comercio al por mayor de productos agropecuarios,2,Baja California
+432112,Comercio al por mayor de blancos,2,Baja California
+433220,Comercio al por mayor de artículos de joyería y relojes,2,Baja California
+432113,Comercio al por mayor de cueros y pieles,2,Baja California
+434313,Comercio al por mayor de desechos de vidrio,2,Baja California
+431194,Comercio al por mayor de miel,2,Baja California
+463111,Comercio al por menor de telas,2,Baja California
+463211,"Comercio al por menor de ropa, excepto de bebé y lencería",2,Baja California
+464121,Comercio al por menor de lentes,2,Baja California
+465919,Comercio al por menor de otros artículos de uso personal,2,Baja California
+466212,Comercio al por menor de teléfonos y otros aparatos de comunicación,2,Baja California
+464113,"Comercio al por menor de productos naturistas, medicamentos homeopáticos y de complementos alimenticios",2,Baja California
+466112,Comercio al por menor de electrodomésticos menores y aparatos de línea blanca,2,Baja California
+468411,Comercio al por menor de gasolina y diesel,2,Baja California
+465111,Comercio al por menor de artículos de perfumería y cosméticos,2,Baja California
+461110,"Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas",2,Baja California
+465912,Comercio al por menor de regalos,2,Baja California
+463310,Comercio al por menor de calzado,2,Baja California
+465112,Comercio al por menor de artículos de joyería y relojes,2,Baja California
+468112,Comercio al por menor de automóviles y camionetas usados,2,Baja California
+461121,Comercio al por menor de carnes rojas,2,Baja California
+466410,Comercio al por menor de artículos usados,2,Baja California
+468211,"Comercio al por menor de partes y refacciones nuevas para automóviles, camionetas y camiones",2,Baja California
+465311,Comercio al por menor de artículos de papelería,2,Baja California
+464111,Farmacias sin minisúper,2,Baja California
+462111,Comercio al por menor en supermercados,2,Baja California
+461220,"Comercio al por menor de cigarros, puros y tabaco",2,Baja California
+465212,Comercio al por menor de juguetes,2,Baja California
+468212,"Comercio al por menor de partes y refacciones usadas para automóviles, camionetas y camiones",2,Baja California
+466111,Comercio al por menor de muebles para el hogar,2,Baja California
+463215,Comercio al por menor de bisutería y accesorios de vestir,2,Baja California
+461122,Comercio al por menor de carne de aves,2,Baja California
+465913,Comercio al por menor de artículos religiosos,2,Baja California
+462112,Comercio al por menor en minisupers,2,Baja California
+461212,Comercio al por menor de cerveza,2,Baja California
+461123,Comercio al por menor de pescados y mariscos,2,Baja California
+462210,Comercio al por menor en tiendas departamentales,2,Baja California
+465215,Comercio al por menor de artículos y aparatos deportivos,2,Baja California
+466312,Comercio al por menor de plantas y flores naturales,2,Baja California
+466211,"Comercio al por menor de mobiliario, equipo y accesorios de cómputo",2,Baja California
+461213,Comercio al por menor de bebidas no alcohólicas y hielo,2,Baja California
+461140,"Comercio al por menor de semillas y granos alimenticios, especias y chiles secos",2,Baja California
+461160,Comercio al por menor de dulces y materias primas para repostería,2,Baja California
+461190,Comercio al por menor de otros alimentos,2,Baja California
+461130,Comercio al por menor de frutas y verduras frescas,2,Baja California
+461170,Comercio al por menor de paletas de hielo y helados,2,Baja California
+461211,Comercio al por menor de vinos y licores,2,Baja California
+465915,Comercio al por menor en tiendas de artesanías,2,Baja California
+461150,"Comercio al por menor de leche, otros productos lácteos y embutidos",2,Baja California
+467111,Comercio al por menor en ferreterías y tlapalerías,2,Baja California
+468311,Comercio al por menor de motocicletas,2,Baja California
+467114,Comercio al por menor de vidrios y espejos,2,Baja California
+467112,Comercio al por menor de pisos y recubrimientos cerámicos,2,Baja California
+467113,Comercio al por menor de pintura,2,Baja California
+463214,"Comercio al por menor de disfraces, vestimenta regional y vestidos de novia",2,Baja California
+465911,Comercio al por menor de mascotas,2,Baja California
+463218,Comercio al por menor de sombreros,2,Baja California
+463216,Comercio al por menor de ropa de cuero y piel y de otros artículos de estos materiales,2,Baja California
+463213,Comercio al por menor de lencería,2,Baja California
+468420,"Comercio al por menor de aceites y grasas lubricantes, aditivos y similares para vehículos de motor",2,Baja California
+467117,Comercio al por menor de artículos para albercas y otros artículos,2,Baja California
+467115,Comercio al por menor de artículos para la limpieza,2,Baja California
+465914,Comercio al por menor de artículos desechables,2,Baja California
+468111,Comercio al por menor de automóviles y camionetas nuevos,2,Baja California
+466311,"Comercio al por menor de alfombras, cortinas, tapices y similares",2,Baja California
+464122,Comercio al por menor de artículos ortopédicos,2,Baja California
+466114,"Comercio al por menor de cristalería, loza y utensilios de cocina",2,Baja California
+466319,Comercio al por menor de otros artículos para la decoración de interiores,2,Baja California
+465216,Comercio al por menor de instrumentos musicales,2,Baja California
+468213,"Comercio al por menor de llantas y cámaras para automóviles, camionetas y camiones",2,Baja California
+463112,Comercio al por menor de blancos,2,Baja California
+465312,Comercio al por menor de libros,2,Baja California
+467116,Comercio al por menor de materiales para la construcción en tiendas de autoservicio especializadas,2,Baja California
+464112,Farmacias con minisúper,2,Baja California
+468412,Comercio al por menor de gas L. P. en cilindros y para tanques estacionarios,2,Baja California
+466313,Comercio al por menor de antigüedades y obras de arte,2,Baja California
+468419,Comercio al por menor de otros combustibles,2,Baja California
+469110,"Comercio al por menor exclusivamente a través de Internet, y catálogos impresos, televisión y similares",2,Baja California
+465211,Comercio al por menor de discos y casetes,2,Baja California
+463212,Comercio al por menor de ropa de bebé,2,Baja California
+465213,Comercio al por menor de bicicletas,2,Baja California
+465214,Comercio al por menor de equipo y material fotográfico,2,Baja California
+463113,Comercio al por menor de artículos de mercería y bonetería,2,Baja California
+468319,Comercio al por menor de otros vehículos de motor,2,Baja California
+466314,Comercio al por menor de lámparas ornamentales y candiles,2,Baja California
+468414,Comercio al por menor en estaciones de gas natural vehicular,2,Baja California
+465313,Comercio al por menor de revistas y periódicos,2,Baja California
+468413,Comercio al por menor de gas L. P. en estaciones de carburación,2,Baja California
+466113,Comercio al por menor de muebles para jardín,2,Baja California
+463217,Comercio al por menor de pañales desechables,2,Baja California
+488492,"Servicios de administración de carreteras, puentes y servicios auxiliares",2,Baja California
+484129,Otro autotransporte foráneo de carga general,2,Baja California
+488511,Servicios de agencias aduanales,2,Baja California
+488519,Otros servicios de intermediación para el transporte de carga,2,Baja California
+484119,Otro autotransporte local de carga general,2,Baja California
+485210,Transporte colectivo foráneo de pasajeros de ruta fija,2,Baja California
+482110,Transporte por ferrocarril,2,Baja California
+488310,Administración de puertos y muelles,2,Baja California
+484111,Autotransporte local de productos agrícolas sin refrigeración,2,Baja California
+481111,Transporte aéreo regular en líneas aéreas nacionales,2,Baja California
+488112,Administración de aeropuertos y helipuertos,2,Baja California
+488111,Servicios a la navegación aérea,2,Baja California
+485320,Alquiler de automóviles con chofer,2,Baja California
+485510,Alquiler de autobuses con chofer,2,Baja California
+488990,Otros servicios relacionados con el transporte,2,Baja California
+487110,Transporte turístico por tierra,2,Baja California
+484239,Otro autotransporte foráneo de carga especializado,2,Baja California
+484210,Servicios de mudanzas,2,Baja California
+488410,Servicios de grúa,2,Baja California
+485111,Transporte colectivo urbano y suburbano de pasajeros en autobuses de ruta fija,2,Baja California
+484229,Otro autotransporte local de carga especializado,2,Baja California
+485410,Transporte escolar y de personal,2,Baja California
+488491,Servicios de administración de centrales camioneras,2,Baja California
+484223,Autotransporte local con refrigeración,2,Baja California
+484233,Autotransporte foráneo con refrigeración,2,Baja California
+484231,Autotransporte foráneo de materiales para la construcción,2,Baja California
+484232,Autotransporte foráneo de materiales y residuos peligrosos,2,Baja California
+484121,Autotransporte foráneo de productos agrícolas sin refrigeración,2,Baja California
+484221,Autotransporte local de materiales para la construcción,2,Baja California
+488190,Otros servicios relacionados con el transporte aéreo,2,Baja California
+488390,Otros servicios relacionados con el transporte por agua,2,Baja California
+487210,Transporte turístico por agua,2,Baja California
+488493,Servicios de báscula para el transporte y otros servicios relacionados con el transporte por carretera,2,Baja California
+488320,Servicios de carga y descarga para el transporte por agua,2,Baja California
+488330,Servicios para la navegación por agua,2,Baja California
+483112,"Transporte marítimo de cabotaje, excepto de petróleo y gas natural",2,Baja California
+486210,Transporte de gas natural por ductos,2,Baja California
+484222,Autotransporte local de materiales y residuos peligrosos,2,Baja California
+485990,Otro transporte terrestre de pasajeros,2,Baja California
+486910,Transporte por ductos de productos refinados del petróleo,2,Baja California
+483113,Transporte marítimo de petróleo y gas natural,2,Baja California
+485115,Transporte colectivo urbano y suburbano de pasajeros en autobuses que transitan en carril exclusivo,2,Baja California
+484224,Autotransporte local de madera,2,Baja California
+483111,"Transporte marítimo de altura, excepto de petróleo y gas natural",2,Baja California
+483210,Transporte por aguas interiores,2,Baja California
+481210,Transporte aéreo no regular,2,Baja California
+492110,Servicios de mensajería y paquetería foránea,2,Baja California
+493119,Otros servicios de almacenamiento general sin instalaciones especializadas,2,Baja California
+493130,Almacenamiento de productos agrícolas que no requieren refrigeración,2,Baja California
+493190,Otros servicios de almacenamiento con instalaciones especializadas,2,Baja California
+492210,Servicios de mensajería y paquetería local,2,Baja California
+493120,Almacenamiento con refrigeración,2,Baja California
+491110,Servicios postales,2,Baja California
+493111,Almacenes generales de depósito,2,Baja California
+516110,Estaciones de transmisión de programas de radio,2,Baja California
+519211,Bibliotecas y archivos del sector privado,2,Baja California
+517311,Operadores de servicios de telecomunicaciones alámbricas,2,Baja California
+512240,Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicales,2,Baja California
+517910,Otros servicios de telecomunicaciones,2,Baja California
+516210,"Servicios de distribución de audio y video en tiempo real (streaming), redes sociales, cadenas de radio y televisión y otros proveedores de contenido",2,Baja California
+517312,Operadores de servicios de telecomunicaciones inalámbricas,2,Baja California
+512290,Otros servicios de grabación del sonido,2,Baja California
+519212,Bibliotecas y archivos del sector público,2,Baja California
+517410,Operadores de servicios de telecomunicaciones vía satélite,2,Baja California
+513192,Edición de otros materiales integrada con la impresión,2,Baja California
+512112,Producción de programas para la televisión,2,Baja California
+512113,"Producción de videoclips, comerciales y otros materiales audiovisuales",2,Baja California
+513121,Edición de revistas y otras publicaciones periódicas en formato electrónico,2,Baja California
+513112,Edición de periódicos integrada con la impresión,2,Baja California
+513132,Edición de libros integrada con la impresión,2,Baja California
+512130,Exhibición de películas y otros materiales audiovisuales,2,Baja California
+513111,Edición de periódicos en formato electrónico,2,Baja California
+518210,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",2,Baja California
+513131,Edición de libros en formato electrónico,2,Baja California
+512250,Productoras y distribuidoras discográficas,2,Baja California
+513191,Edición de otros materiales en formato electrónico,2,Baja California
+513210,Edición de software,2,Baja California
+512230,Editoras de música,2,Baja California
+519290,Portales de búsqueda en la red y otros servicios de suministro de información,2,Baja California
+516120,Estaciones de transmisión de programas de televisión,2,Baja California
+524210,"Agentes, ajustadores y gestores de seguros y fianzas",2,Baja California
+522452,Casas de empeño,2,Baja California
+522320,Cajas de ahorro popular,2,Baja California
+522110,Banca múltiple,2,Baja California
+523110,Casas de bolsa,2,Baja California
+523122,Centros cambiarios,2,Baja California
+523910,Asesoría en inversiones,2,Baja California
+524130,Compañías afianzadoras,2,Baja California
+524110,Compañías de seguros,2,Baja California
+524220,Administración de cajas de pensión y de seguros independientes,2,Baja California
+522220,Fondos y fideicomisos financieros,2,Baja California
+522490,Otras instituciones de intermediación crediticia y financiera no bursátil,2,Baja California
+522390,Otras instituciones de ahorro y préstamo,2,Baja California
+522460,Sociedades financieras de objeto múltiple,2,Baja California
+522310,Uniones de crédito,2,Baja California
+522440,Compañías de autofinanciamiento,2,Baja California
+522510,Servicios relacionados con la intermediación crediticia no bursátil,2,Baja California
+521110,Banca central,2,Baja California
+522210,Banca de desarrollo,2,Baja California
+522451,Montepíos,2,Baja California
+524120,Fondos de aseguramiento campesino,2,Baja California
+523990,Otros servicios relacionados con la intermediación bursátil,2,Baja California
+523121,Casas de cambio,2,Baja California
+531210,Inmobiliarias y corredores de bienes raíces,2,Baja California
+531113,Alquiler sin intermediación de salones para fiestas y convenciones,2,Baja California
+532492,"Alquiler de maquinaria y equipo para mover, levantar y acomodar materiales",2,Baja California
+532310,Centros generales de alquiler,2,Baja California
+531319,Otros servicios relacionados con los servicios inmobiliarios,2,Baja California
+531114,Alquiler sin intermediación de oficinas y locales comerciales,2,Baja California
+531311,Servicios de administración de bienes raíces,2,Baja California
+531119,Alquiler sin intermediación de otros bienes raíces,2,Baja California
+531111,Alquiler sin intermediación de viviendas amuebladas,2,Baja California
+532282,"Alquiler de mesas, sillas, vajillas y similares",2,Baja California
+532110,Alquiler de automóviles sin chofer,2,Baja California
+532281,Alquiler de prendas de vestir,2,Baja California
+531112,Alquiler sin intermediación de viviendas no amuebladas,2,Baja California
+532411,"Alquiler de maquinaria y equipo para construcción, minería y actividades forestales",2,Baja California
+531116,Alquiler sin intermediación de edificios industriales dentro de un parque industrial,2,Baja California
+532493,Alquiler de maquinaria y equipo comercial y de servicios,2,Baja California
+532289,Alquiler de otros artículos para el hogar y personales,2,Baja California
+532122,"Alquiler de autobuses, minibuses y remolques sin chofer",2,Baja California
+532420,Alquiler de equipo de cómputo y de otras máquinas y mobiliario de oficina,2,Baja California
+531115,"Alquiler sin intermediación de teatros, estadios, auditorios y similares",2,Baja California
+533110,"Servicios de alquiler de marcas registradas, patentes y franquicias",2,Baja California
+532121,Alquiler de camiones de carga sin chofer,2,Baja California
+532491,"Alquiler de maquinaria y equipo agropecuario, pesquero y para la industria manufacturera",2,Baja California
+532210,Alquiler de aparatos eléctricos y electrónicos para el hogar y personales,2,Baja California
+541941,Servicios veterinarios para mascotas prestados por el sector privado,2,Baja California
+541920,Servicios de fotografía y videograbación,2,Baja California
+541510,Servicios de diseño de sistemas de cómputo y servicios relacionados,2,Baja California
+541110,Bufetes jurídicos,2,Baja California
+541310,Servicios de arquitectura,2,Baja California
+541610,Servicios de consultoría en administración,2,Baja California
+541330,Servicios de ingeniería,2,Baja California
+541219,Otros servicios relacionados con la contabilidad,2,Baja California
+541430,Diseño gráfico,2,Baja California
+541190,Servicios de apoyo para efectuar trámites legales,2,Baja California
+541211,Servicios de contabilidad y auditoría,2,Baja California
+541690,Otros servicios de consultoría científica y técnica,2,Baja California
+541810,Agencias de publicidad,2,Baja California
+541890,Servicios de rotulación y otros servicios de publicidad,2,Baja California
+541380,Laboratorios de pruebas,2,Baja California
+541120,Notarías públicas,2,Baja California
+541620,Servicios de consultoría en medio ambiente,2,Baja California
+541340,Servicios de dibujo,2,Baja California
+541930,Servicios de traducción e interpretación,2,Baja California
+541420,Diseño industrial,2,Baja California
+541490,Diseño de modas y otros diseños especializados,2,Baja California
+541350,Servicios de inspección de edificios,2,Baja California
+541370,Servicios de elaboración de mapas,2,Baja California
+541990,"Otros servicios profesionales, científicos y técnicos",2,Baja California
+541711,"Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida, prestados por el sector privado",2,Baja California
+541850,Agencias de anuncios publicitarios,2,Baja California
+541360,Servicios de levantamiento geofísico,2,Baja California
+541410,Diseño y decoración de interiores,2,Baja California
+541860,Agencias de correo directo,2,Baja California
+541942,Servicios veterinarios para mascotas prestados por el sector público,2,Baja California
+541870,Distribución de material publicitario,2,Baja California
+541910,Servicios de investigación de mercados y encuestas de opinión pública,2,Baja California
+541712,"Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida, prestados por el sector público",2,Baja California
+541320,Servicios de arquitectura de paisaje y urbanismo,2,Baja California
+541721,"Servicios de investigación científica y desarrollo en ciencias sociales y humanidades, prestados por el sector privado",2,Baja California
+541840,Agencias de representación de medios,2,Baja California
+551111,Corporativos,2,Baja California
+551112,Tenedoras de acciones,2,Baja California
+561610,"Servicios de investigación y de protección y custodia, excepto mediante monitoreo",2,Baja California
+562921,Recuperación de residuos por el sector privado,2,Baja California
+561422,Servicios de recepción de llamadas telefónicas y promoción por teléfono,2,Baja California
+561510,Agencias de viajes,2,Baja California
+561432,Servicios de acceso a computadoras,2,Baja California
+561110,Servicios de administración de negocios,2,Baja California
+561330,Suministro de personal permanente,2,Baja California
+561910,Servicios de empacado y etiquetado,2,Baja California
+562121,Recolección de residuos no peligrosos por el sector privado,2,Baja California
+561440,Agencias de cobranza,2,Baja California
+561320,Agencias de empleo temporal,2,Baja California
+561620,Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad,2,Baja California
+561210,Servicios combinados de apoyo en instalaciones,2,Baja California
+561310,Agencias de colocación,2,Baja California
+561431,"Servicios de fotocopiado, fax y afines",2,Baja California
+561421,Servicios de casetas telefónicas,2,Baja California
+561490,Otros servicios de apoyo secretarial y similares,2,Baja California
+562221,Tratamiento y disposición final de residuos no peligrosos por el sector privado,2,Baja California
+561740,"Servicios de limpieza de tapicería, alfombras y muebles",2,Baja California
+561920,Organizadores de convenciones y ferias comerciales e industriales,2,Baja California
+561790,Otros servicios de limpieza,2,Baja California
+562112,Manejo de desechos no peligrosos y servicios de remediación a zonas dañadas por desechos no peligrosos,2,Baja California
+561720,Servicios de limpieza de inmuebles,2,Baja California
+561710,Servicios de control y exterminación de plagas,2,Baja California
+561990,Otros servicios de apoyo a los negocios,2,Baja California
+562211,Tratamiento y disposición final de residuos peligrosos por el sector privado,2,Baja California
+562998,Otros servicios de manejo de residuos por el sector privado,2,Baja California
+562111,Manejo de residuos peligrosos y servicios de remediación a zonas dañadas por materiales o residuos peligrosos,2,Baja California
+562122,Recolección de residuos no peligrosos por el sector público,2,Baja California
+561590,Otros servicios de reservaciones,2,Baja California
+561450,Despachos de investigación de solvencia financiera,2,Baja California
+561520,Organización de excursiones y paquetes turísticos para agencias de viajes,2,Baja California
+561410,Servicios de preparación de documentos,2,Baja California
+562911,Servicios de remediación de residuos por el sector privado,2,Baja California
+561730,Servicios de instalación y mantenimiento de áreas verdes,2,Baja California
+611621,Escuelas de deporte del sector privado,2,Baja California
+611698,Otros servicios educativos proporcionados por el sector privado,2,Baja California
+611112,Escuelas de educación preescolar del sector público,2,Baja California
+611611,Escuelas de arte del sector privado,2,Baja California
+611412,Escuelas comerciales y secretariales del sector público,2,Baja California
+611511,Escuelas del sector privado dedicadas a la enseñanza de oficios,2,Baja California
+611171,Escuelas del sector privado que combinan diversos niveles de educación,2,Baja California
+611631,Escuelas de idiomas del sector privado,2,Baja California
+611212,Escuelas de educación técnica superior del sector público,2,Baja California
+611111,Escuelas de educación preescolar del sector privado,2,Baja California
+611161,Escuelas de educación media superior del sector privado,2,Baja California
+611312,Escuelas de educación superior del sector público,2,Baja California
+611691,Servicios de profesores particulares,2,Baja California
+611122,Escuelas de educación primaria del sector público,2,Baja California
+611181,Escuelas del sector privado de educación para necesidades especiales,2,Baja California
+611182,Escuelas del sector público de educación para necesidades especiales,2,Baja California
+611311,Escuelas de educación superior del sector privado,2,Baja California
+611211,Escuelas de educación técnica superior del sector privado,2,Baja California
+611411,Escuelas comerciales y secretariales del sector privado,2,Baja California
+611162,Escuelas de educación media superior del sector público,2,Baja California
+611132,Escuelas de educación secundaria general del sector público,2,Baja California
+611142,Escuelas de educación secundaria técnica del sector público,2,Baja California
+611121,Escuelas de educación primaria del sector privado,2,Baja California
+611151,Escuelas de educación media técnica terminal del sector privado,2,Baja California
+611512,Escuelas del sector público dedicadas a la enseñanza de oficios,2,Baja California
+611172,Escuelas del sector público que combinan diversos niveles de educación,2,Baja California
+611431,Escuelas para la capacitación de ejecutivos del sector privado,2,Baja California
+611699,Otros servicios educativos proporcionados por el sector público,2,Baja California
+611622,Escuelas de deporte del sector público,2,Baja California
+611131,Escuelas de educación secundaria general del sector privado,2,Baja California
+611421,Escuelas de computación del sector privado,2,Baja California
+611141,Escuelas de educación secundaria técnica del sector privado,2,Baja California
+611152,Escuelas de educación media técnica terminal del sector público,2,Baja California
+611422,Escuelas de computación del sector público,2,Baja California
+611710,Servicios de apoyo a la educación,2,Baja California
+621331,Consultorios de psicología del sector privado,2,Baja California
+621113,Consultorios de medicina especializada del sector privado,2,Baja California
+621211,Consultorios dentales del sector privado,2,Baja California
+624191,Agrupaciones de autoayuda para alcohólicos y personas con otras adicciones,2,Baja California
+623221,Residencias del sector privado para el cuidado de personas con problemas de trastorno mental y adicción,2,Baja California
+621511,Laboratorios médicos y de diagnóstico del sector privado,2,Baja California
+621391,Consultorios de nutriólogos y dietistas del sector privado,2,Baja California
+623991,Orfanatos y otras residencias de asistencia social del sector privado,2,Baja California
+624121,Centros del sector privado dedicados a la atención y cuidado diurno de ancianos y discapacitados,2,Baja California
+623311,Asilos y otras residencias del sector privado para el cuidado de ancianos,2,Baja California
+621398,Otros consultorios del sector privado para el cuidado de la salud,2,Baja California
+621111,Consultorios de medicina general del sector privado,2,Baja California
+621341,"Consultorios del sector privado de audiología y de terapia ocupacional, física y del lenguaje",2,Baja California
+621421,Centros del sector privado de atención médica externa para enfermos mentales y adictos,2,Baja California
+622111,Hospitales generales del sector privado,2,Baja California
+621910,Servicios de ambulancias,2,Baja California
+624411,Guarderías del sector privado,2,Baja California
+621311,Consultorios de quiropráctica del sector privado,2,Baja California
+624221,Refugios temporales comunitarios del sector privado,2,Baja California
+624222,Refugios temporales comunitarios del sector público,2,Baja California
+623992,Orfanatos y otras residencias de asistencia social del sector público,2,Baja California
+623111,"Residencias del sector privado con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales",2,Baja California
+624211,Servicios de alimentación comunitarios prestados por el sector privado,2,Baja California
+624199,Otros servicios de orientación y trabajo social prestados por el sector público,2,Baja California
+622112,Hospitales generales del sector público,2,Baja California
+621320,Consultorios de optometría,2,Baja California
+621491,Otros centros del sector privado para la atención de pacientes que no requieren hospitalización,2,Baja California
+623211,Residencias del sector privado para el cuidado de personas con problemas de retardo mental,2,Baja California
+621115,Clínicas de consultorios médicos del sector privado,2,Baja California
+624111,Servicios de orientación y trabajo social para la niñez y la juventud prestados por el sector privado,2,Baja California
+621610,Servicios de enfermería a domicilio,2,Baja California
+624231,Servicios de emergencia comunitarios prestados por el sector privado,2,Baja California
+622311,Hospitales del sector privado de otras especialidades médicas,2,Baja California
+622211,Hospitales psiquiátricos y para el tratamiento por adicción del sector privado,2,Baja California
+624212,Servicios de alimentación comunitarios prestados por el sector público,2,Baja California
+621991,"Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médico prestados por el sector privado",2,Baja California
+624232,Servicios de emergencia comunitarios prestados por el sector público,2,Baja California
+624112,Servicios de orientación y trabajo social para la niñez y la juventud prestados por el sector público,2,Baja California
+621112,Consultorios de medicina general del sector público,2,Baja California
+621116,Clínicas de consultorios médicos del sector público,2,Baja California
+624198,Otros servicios de orientación y trabajo social prestados por el sector privado,2,Baja California
+624122,Centros del sector público dedicados a la atención y cuidado diurno de ancianos y discapacitados,2,Baja California
+624412,Guarderías del sector público,2,Baja California
+624311,"Servicios de capacitación para el trabajo prestados por el sector privado para personas desempleadas, subempleadas o discapacitadas",2,Baja California
+624312,"Servicios de capacitación para el trabajo prestados por el sector público para personas desempleadas, subempleadas o discapacitadas",2,Baja California
+621399,Otros consultorios del sector público para el cuidado de la salud,2,Baja California
+621412,Centros de planificación familiar del sector público,2,Baja California
+621332,Consultorios de psicología del sector público,2,Baja California
+623312,Asilos y otras residencias del sector público para el cuidado de ancianos,2,Baja California
+621342,"Consultorios del sector público de audiología y de terapia ocupacional, física y del lenguaje",2,Baja California
+621422,Centros del sector público de atención médica externa para enfermos mentales y adictos,2,Baja California
+621411,Centros de planificación familiar del sector privado,2,Baja California
+621212,Consultorios dentales del sector público,2,Baja California
+622312,Hospitales del sector público de otras especialidades médicas,2,Baja California
+622212,Hospitales psiquiátricos y para el tratamiento por adicción del sector público,2,Baja California
+621512,Laboratorios médicos y de diagnóstico del sector público,2,Baja California
+623212,Residencias del sector público para el cuidado de personas con problemas de retardo mental,2,Baja California
+623112,"Residencias del sector público con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales",2,Baja California
+621492,Otros centros del sector público para la atención de pacientes que no requieren hospitalización,2,Baja California
+713943,Centros de acondicionamiento físico del sector privado,2,Baja California
+713941,Clubes deportivos del sector privado,2,Baja California
+713291,"Venta de billetes de lotería, pronósticos deportivos y otros boletos de sorteo",2,Baja California
+713113,Parques acuáticos y balnearios del sector privado,2,Baja California
+711212,Equipos deportivos profesionales,2,Baja California
+713120,Casas de juegos electrónicos,2,Baja California
+711311,"Promotores del sector privado de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos",2,Baja California
+711131,Cantantes y grupos musicales del sector privado,2,Baja California
+712111,Museos del sector privado,2,Baja California
+713998,Otros servicios recreativos prestados por el sector privado,2,Baja California
+713111,Parques de diversiones y temáticos del sector privado,2,Baja California
+711510,"Artistas, escritores y técnicos independientes",2,Baja California
+712112,Museos del sector público,2,Baja California
+711312,"Promotores del sector público de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos",2,Baja California
+713299,Otros juegos de azar,2,Baja California
+713950,Boliches,2,Baja California
+713112,Parques de diversiones y temáticos del sector público,2,Baja California
+713991,Billares,2,Baja California
+711111,Compañías de teatro del sector privado,2,Baja California
+713992,Clubes o ligas de aficionados,2,Baja California
+713944,Centros de acondicionamiento físico del sector público,2,Baja California
+711121,Compañías de danza del sector privado,2,Baja California
+711191,Otras compañías y grupos de espectáculos artísticos del sector privado,2,Baja California
+711320,"Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlos",2,Baja California
+711211,Deportistas profesionales,2,Baja California
+712131,Jardines botánicos y zoológicos del sector privado,2,Baja California
+713999,Otros servicios recreativos prestados por el sector público,2,Baja California
+713942,Clubes deportivos del sector público,2,Baja California
+712132,Jardines botánicos y zoológicos del sector público,2,Baja California
+722514,Restaurantes con servicio de preparación de tacos y tortas,2,Baja California
+722516,Restaurantes de autoservicio,2,Baja California
+722518,Restaurantes que preparan otro tipo de alimentos para llevar,2,Baja California
+722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares",2,Baja California
+721111,Hoteles con otros servicios integrados,2,Baja California
+722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida,2,Baja California
+722412,"Bares, cantinas y similares",2,Baja California
+722512,Restaurantes con servicio de preparación de pescados y mariscos,2,Baja California
+722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar",2,Baja California
+722519,Servicios de preparación de otros alimentos para consumo inmediato,2,Baja California
+722310,Servicios de comedor para empresas e instituciones,2,Baja California
+722330,Servicios de preparación de alimentos en unidades móviles,2,Baja California
+721112,Hoteles sin otros servicios integrados,2,Baja California
+722320,Servicios de preparación de alimentos para ocasiones especiales,2,Baja California
+721190,"Cabañas, villas y similares",2,Baja California
+721210,Campamentos y albergues recreativos,2,Baja California
+721113,Moteles,2,Baja California
+722513,Restaurantes con servicio de preparación de antojitos,2,Baja California
+722411,"Centros nocturnos, discotecas y similares",2,Baja California
+721312,Departamentos y casas amueblados con servicios de hotelería,2,Baja California
+721311,Pensiones y casas de huéspedes,2,Baja California
+811111,Reparación mecánica en general de automóviles y camiones,2,Baja California
+812110,Salones y clínicas de belleza y peluquerías,2,Baja California
+813210,Asociaciones y organizaciones religiosas,2,Baja California
+811115,Reparación de suspensiones de automóviles y camiones,2,Baja California
+811410,Reparación y mantenimiento de aparatos eléctricos para el hogar y personales,2,Baja California
+811114,Reparación de transmisiones de automóviles y camiones,2,Baja California
+811312,Reparación y mantenimiento de maquinaria y equipo industrial,2,Baja California
+811121,Hojalatería y pintura de automóviles y camiones,2,Baja California
+811112,Reparación del sistema eléctrico de automóviles y camiones,2,Baja California
+812210,Lavanderías y tintorerías,2,Baja California
+811122,Tapicería de automóviles y camiones,2,Baja California
+811219,Reparación y mantenimiento de otro equipo electrónico y de equipo de precisión,2,Baja California
+813230,Asociaciones y organizaciones civiles,2,Baja California
+811491,Cerrajerías,2,Baja California
+811199,Otros servicios de reparación y mantenimiento de automóviles y camiones,2,Baja California
+812130,Sanitarios públicos y bolerías,2,Baja California
+811499,Reparación y mantenimiento de otros artículos para el hogar y personales,2,Baja California
+811191,Reparación menor de llantas,2,Baja California
+811129,Instalación de cristales y otras reparaciones a la carrocería de automóviles y camiones,2,Baja California
+811493,Reparación y mantenimiento de bicicletas,2,Baja California
+811119,Otras reparaciones mecánicas de automóviles y camiones,2,Baja California
+811192,Lavado y lubricado de automóviles y camiones,2,Baja California
+811313,"Reparación y mantenimiento de maquinaria y equipo para mover, levantar y acomodar materiales",2,Baja California
+813110,"Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios",2,Baja California
+812410,Estacionamientos y pensiones para vehículos automotores,2,Baja California
+813120,Asociaciones y organizaciones laborales y sindicales,2,Baja California
+812990,Otros servicios personales,2,Baja California
+811430,Reparación de calzado y otros artículos de piel y cuero,2,Baja California
+812322,Administración de cementerios pertenecientes al sector público,2,Baja California
+811113,Rectificación de partes de motor de automóviles y camiones,2,Baja California
+811116,Alineación y balanceo de automóviles y camiones,2,Baja California
+811311,Reparación y mantenimiento de maquinaria y equipo agropecuario y forestal,2,Baja California
+811314,Reparación y mantenimiento de maquinaria y equipo comercial y de servicios,2,Baja California
+811420,Reparación de tapicería de muebles para el hogar,2,Baja California
+813130,Asociaciones y organizaciones de profesionistas,2,Baja California
+812910,Servicios de revelado e impresión de fotografías,2,Baja California
+811211,Reparación y mantenimiento de equipo electrónico de uso doméstico,2,Baja California
+813140,Asociaciones regulatorias de actividades recreativas,2,Baja California
+811492,Reparación y mantenimiento de motocicletas,2,Baja California
+812120,Baños públicos,2,Baja California
+812310,Servicios funerarios,2,Baja California
+811123,Servicios de blindaje y de adaptación de automóviles y camiones,2,Baja California
+812321,Administración de cementerios pertenecientes al sector privado,2,Baja California
+931210,Administración pública en general,2,Baja California
+931810,Actividades de seguridad nacional,2,Baja California
+931610,Actividades administrativas de instituciones de bienestar social,2,Baja California
+931411,Impartición de justicia,2,Baja California
+931412,Mantenimiento de la seguridad y el orden público,2,Baja California
+931310,Regulación y fomento del desarrollo económico,2,Baja California
+931110,Órganos legislativos,2,Baja California
+931510,Regulación y fomento de actividades para mejorar y preservar el medio ambiente,2,Baja California
+932110,Organismos internacionales,2,Baja California
+931710,Relaciones exteriores,2,Baja California
