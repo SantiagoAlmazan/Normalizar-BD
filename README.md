@@ -2,9 +2,9 @@
 
 # Normalización de Datos en Excel (hasta 3FN)
 **Autor:** Santiago Isaías Almazán Chávez  
-**Materia:** Administración de Bases de Datos  
-**Semestre:** 7°  
-**Fecha:** Noviembre 2025  
+**Materia:** desarrollo backend 
+
+**Fecha:** 05 de Noviembre 2025  
 
 
 
